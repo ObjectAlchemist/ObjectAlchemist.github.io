@@ -255,7 +255,7 @@ Sixth: The codebase is easy to extend. You can implement a consumer group as a d
 
 ``` swift
 
-let groupCleaner = RoomCleaner(CustomerGroup([Human(), Human(), Human()]))
+let groupCleaner = RoomCleaner(ConsumerGroup([Human(), Human(), Human()]))
 
 ```
 
