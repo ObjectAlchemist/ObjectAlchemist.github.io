@@ -28,7 +28,7 @@ owner:
   name:           Karsten Litsche
   site:           http://blog.objectalchemist.com
   avatar:         images/avatar.jpg
-  bio:            "Develop mobile solutions for more than 12 years now<br>in startups, mid sized companies up to well known<br>mammoth like Nokia, Yahoo and EPost.<br>Likes to discuss object oriented ideas, greek food and a good wine."
+  bio:            "Develop mobile solutions for more than 12 years now<br>in startups, mid sized companies up to well known<br>mammoth like Nokia, Yahoo, EPost and Deutsche Bahn.<br>Likes to discuss object oriented ideas, greek food and a good wine."
   email:          feedback@objectalchemist.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter:        objectalchemist # if no twitter in this config, the twitter follow button will be removed
