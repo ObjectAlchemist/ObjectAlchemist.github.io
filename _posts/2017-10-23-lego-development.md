@@ -1,23 +1,23 @@
 ---
 layout: post
 title: Lego Development
-description: Writing code like playing lego
-modified: 2017-10-23
+description: Writing code like playing Lego
+modified: 2017-10-25
 tags: [SWIFT, OO-Concept]
 comments: false
 ---
 
 Do you know Lego? Of course you do. Everybody know it. 3.4 billion euro turnover per year speaks for itself. The idea behind it can't be so wrong, or? 
 
-What is it that makes it successful? I think it's the simplicity. A child can understand it without a manual. It's easy to learn and you can build really complex structures with simple pieces. Wouldn't it be nice to code like lego? Let's think about the lego principles and how we can adapt them for software development.
+What is it that makes it successful? I think it's the simplicity. A child can understand it without a manual. It's easy to learn and you can build really complex structures with simple pieces. Wouldn't it be nice to code like Lego? Let's think about the Lego principles and how we can adapt them for software development.
 
 <!--break-->
 
-![A complex lego castle]({{ site.url }}/images/LegoCastle.jpg)
+![A complex Lego castle]({{ site.url }}/images/LegoCastle.jpg)
 
-To code like lego we need some simple code-stones. Stones we do not have yet. Thats a small difference to lego. As long as we do not have the basic stones we are the stone creators. So our task is to create usable stones, else nobody wan't to use them. So how do we create such stones?
+To code like Lego we need some simple code-stones. Stones we do not have yet. Thats a small difference to Lego. As long as we do not have the basic stones we are the stone creators. So our task is to create usable stones, else nobody wan't to use them. So how do we create such stones?
 
-Let's learn from lego. A stone will be used more often if it has a small shape. A stone with only one pin is much more flexible usable than a stone with 50 pins. In swift development the shape of a stone we call protocol. The pins of the stone are therefore the protocol functions. A protocol with only one functionality is much more flexible than a protocol with 50. The code-stones that fullfill our protocol we call objects. Voila.
+Let's learn from Lego. A stone will be used more often if it has a small shape. A stone with only one pin is much more flexible usable than a stone with 50 pins. In swift development the shape of a stone we call protocol. The pins of the stone are therefore the protocol functions. A protocol with only one functionality is much more flexible than a protocol with 50. The code-stones that fullfill our protocol we call objects. Voila.
 
 Lets see an example:
 
@@ -49,7 +49,7 @@ window?.rootViewController = screen.ui
 
 ```
 
-Like connecting two stones in lego, we connected a ViewTextButton with our object DoNothing. And because action is defined as OOExecutable we can easily exchange the object with another one like a red stone with a green stone of same shape in lego. And we can also do this with views in our lego-coding world. 
+Like connecting two stones in Lego, we connected a ViewTextButton with our object DoNothing. And because action is defined as OOExecutable we can easily exchange the object with another one like a red stone with a green stone of same shape in Lego. And we can also do this with views in our Lego-coding world. 
 
 ``` swift
 
@@ -68,7 +68,7 @@ window?.rootViewController = screen.ui
 
 ```
 
-In the lego world it's really hard to create 50 pin stones from one pin stones, so you don't like to do it. There might be a 50 pin stone there, but in our lego-coding world we do not need such a stone if we already have the components to build one. Our advantage against the real world is that a once written object can be used several times. We can create more complex objects by wrapping them into an own world like complex lego objects on a ground plate. This encapsulating subworld we call a Wrap.
+In the Lego world it's really hard to create 50 pin stones from one pin stones, so you don't like to do it. There might be a 50 pin stone there, but in our Lego-coding world we do not need such a stone if we already have the components to build one. Our advantage against the real world is that a once written object can be used several times. We can create more complex objects by wrapping them into an own world like complex Lego objects on a ground plate. This encapsulating subworld we call a Wrap.
 
 ``` swift
 
@@ -112,7 +112,7 @@ window?.rootViewController = screen.ui
 
 ```
 
-As you see our castle grows and grows. And each simple object and each complex wrap is reusable by design. Follow these path and you will create marvelous castles created from simple objects like lego. And if you need to build another castle you will see that you may build it from the same objects and wraps in less than half the time you need for the first one. 
+As you see our castle grows and grows. And each simple object and each complex wrap is reusable by design. Follow these path and you will create marvelous castles created from simple objects like Lego. And if you need to build another castle you will see that you may build it from the same objects and wraps in less than half the time you need for the first one. 
 
 That's what we call ~~Lego-Development~~ Object Oriented Programming.
 
