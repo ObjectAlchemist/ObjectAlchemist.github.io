@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The reason of Delegates
+title: The reason for Delegates
 description: Why Delegates exist and what they really are for.
 modified: 2018-09-09
 tags: [SWIFT, PROTOCOL]
