@@ -3,7 +3,7 @@ layout: post
 title: Lego Development
 description: Writing code like playing Lego
 modified: 2017-10-25
-tags: [SWIFT, OO-Concept]
+tags: [SWIFT, OO-CONCEPT]
 comments: false
 ---
 
