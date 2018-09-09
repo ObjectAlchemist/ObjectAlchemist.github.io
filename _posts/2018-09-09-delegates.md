@@ -17,7 +17,7 @@ So lets take a look into Delegates, see why they exist and what they really are 
 
 ![Delegate it]({{ site.url }}/images/Delegate.jpg)
 
-When writing a server or terminal program there is exactly one interaction between a user and your program. In pure object oriented programming thats the only place where you are allowed to call a fuction of one of your protocols. In most cases it should be something like `Application(arguments).execute()` or `Application(arguments).run()`. Most developers call this a touch point.
+When writing a server or terminal program there is exactly one interaction between a user and your program. In pure object oriented programming thats the only place where you are allowed to call a method of one of your protocols. In most cases it should be something like `Application(arguments).execute()` or `Application(arguments).run()`. Most developers call this a touch point.
 
 Frontend development is a little bit different, because the user interacts with your code not only by starting the application. There are more touch points like text input, button presses, scrolling content, and so on. But there are also indirect touch points like system events, ble device notifications and memory warnings. When developing for iOS or macOS these touchpoints are mostly provided by a Delegate.
 
