@@ -8,3 +8,4 @@ node_modules
 *.gem
 _tmp
 vendor
+_post_tmp
