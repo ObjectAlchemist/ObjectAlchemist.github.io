@@ -7,7 +7,7 @@ tags: [SCRUM, AGILE, TEAM]
 comments: false
 ---
 
-Working in an agile environment gives you a lot of freedom. Your team can decide how it works, which technologies it want to use and who to welcome as a new team member. Importend descisions are made by a team referendum. And most importend, you have the freedom to choose what you like to do for the team and what not. Right?
+Working in an agile environment gives you a lot of freedom. Your team can decide how it works, which technologies it want to use and who to welcome as a new team member. Important descisions are made by a team referendum. And most important, you have the freedom to choose what you like to do for the team and what not. Right?
 
 Wrong! Or better: Not in any situation. There are duties that require to overrule your freedom.
 
@@ -29,7 +29,7 @@ Will it work? Not immediately, because one piece is missing. Politicians have to
 Facit
 ----------
 
-As long as there are enough volunteers to do the task nobody has to do something he/she don't like. To increase the number of volunteers we need an incentive, in the example it was simply money in the first place. When having not enough volunteers anymore and increasing the positive incentives is no longer possible, you have to think about negative incentives and a new way to achive your goal again. And most importendly, the solution needs to be just for everyone! We still want to live in a democracy, right?
+As long as there are enough volunteers to do the task nobody has to do something he/she don't like. To increase the number of volunteers we need an incentive, in the example it was simply money in the first place. When having not enough volunteers anymore and increasing the positive incentives is no longer possible, you have to think about negative incentives and a new way to achive your goal again. And most importantly, the solution needs to be just for everyone! We still want to live in a democracy, right?
 
 A similar problem in an agile team
 ----------
