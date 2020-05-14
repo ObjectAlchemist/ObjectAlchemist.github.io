@@ -47,7 +47,7 @@ The result is a ***highly flexible customizable UITextField instead of several u
 What happens if you define own Delegates? 
 ----------
 
-At first the user of your delegate has to handle the changes over time. Take a look into the UITableViewDelegate, it started in iOS 2 with already 15 methods. Over time it growed and growed until it reaches the currently 40 methods. ***Fourty functionalities in one protocol!*** And there might be more in the future! Who knows how far it will go?
+At first the user of your delegate has to handle the changes over time. Take a look into the UITableViewDelegate, it started in iOS 2 with already 15 methods. Over time it has grown until it reaches the currently 40 methods. ***Fourty functionalities in one protocol!*** And there might be more in the future! Who knows how far it will go?
 Even ***the documentation split the functionalities into eleven categories*** to handle them. If you have to do something like that you have to recognize that you are far away from object oriented thinking. Hopefully the apple developers are aware of it and do it only for compatibility reasons.
 
 These growing over time has some impacts. When implementing a complex tableview that uses most of the functionalities you end up with classes of hundreds of code lines automatically. It may be less functionality at the beginning but over time when adding more and more functionality it will be more and more difficult to maintain. In addition most developers are tempted to code procedural instead of object oriented in these classes and every depending class. That's understandable because Apple and Stackoverflow shows it in every example implementation.
